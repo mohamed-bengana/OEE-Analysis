@@ -1,4 +1,4 @@
-# 📊 Manufacturing OEE Analytics Dashboard
+# 📊 Manufacturing OEE Analytics 
 
 ## 🔎 Project Overview
 This project presents an end-to-end analytics solution for monitoring manufacturing efficiency using **Overall Equipment Effectiveness (OEE)** metrics. The dashboard provides operational insights into production performance, machine reliability, downtime causes, and product quality across multiple production lines.
