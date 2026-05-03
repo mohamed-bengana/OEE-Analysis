@@ -6,7 +6,7 @@ This project presents an end-to-end analytics solution for monitoring manufactur
 The solution helps manufacturing organizations identify performance bottlenecks, reduce downtime, and improve product quality through data-driven decision-making.
 
 ---
-<img src="power bi dashboard/1.png" width="600"/>
+<img src="power bi dashboard/1.png" width="1200"/>
 
 ## 🧰 Tools & Technologies
 - **Python** → Data cleaning, transformation, and preprocessing  
